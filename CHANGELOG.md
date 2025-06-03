@@ -2,8 +2,6 @@
 
 ## 3.17.10
 
-### Patch Changes
-
 -   8cbf25c: adding support for streamable mcp server
 
 ## [3.17.9]
